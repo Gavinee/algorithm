@@ -121,3 +121,39 @@ class Node:
         ratio = t_length/h_length
         return str(ratio)[0:3]
 
+    def upload(request):
+        ctx = {}
+        if request.method == "POST":
+            file_name = str(request.FILES['file'])
+            if not file_name.endswith('txt'):
+                ctx['fail'] = 'file format exist wrong!'
+            else:
+                file = request.FILES['file']
+                ctx['success'] = 'Successful'
+                input_string = tool.read_file(tool.save_file(file))
+                char_store, freq_store = tool.count_frequency(input_string)
+                char_frequency = tool.get_char_frequency(char_store, freq_store)
+                nodes = huf.create_nodes([item[1] for item in char_frequency])
+                root = huf.create_huffman_tree(nodes)
+                codes = huf.huffman_encoding(nodes, root)
+                save_file_name = tool.get_huffman_file(input_string, char_frequency, codes)
+                for item in zip(char_frequency, codes):
+                    print('Character:%s freq:%-2d   encoding: %s', item[0][0], item[0][1], item[1])
+                ctx['node'] = char_frequency
+     
+                def file_iterator(files, chunk_size=512):
+                    with open(files) as f:
+                        while True:
+                            c = f.read(chunk_size)
+                            if c:
+                                yield c
+                            else:
+                                break
+                the_file_name = tool.get_encode_ration(codes)+'_'+str(uuid.uuid1())+'.txt'
+                response = StreamingHttpResponse(file_iterator(save_file_name))
+                response['Content-Type'] = 'application/octet-stream'
+                response['Content-Disposition'] = 'attachment;filename="{0}"'.format(the_file_name)
+                return response
+
+
+    
