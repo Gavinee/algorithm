@@ -10,3 +10,4 @@ C/C++实现
 [007 斐波拉契数列](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/007%20%20%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.cpp)<br>
 [008 跳台阶.cpp](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/008%20%20%E8%B7%B3%E5%8F%B0%E9%98%B6.cpp)<br>
 [009 变态跳台阶](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/009%20%20%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6.cpp)<br>
+[010 矩形覆盖](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/010%20%20%E7%9F%A9%E5%BD%A2%E8%A6%86%E7%9B%96.cpp)<br>
