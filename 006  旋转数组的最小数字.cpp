@@ -11,3 +11,40 @@ NOTE：
 */
 //author = Qiufeng
 
+class Solution {
+public:
+    int minNumberInRotateArray(vector<int> rotateArray) {
+        
+        int temp = 0;
+        if(rotateArray.size() == 0)
+        {
+            return 0;
+        }
+        else{
+            for(int i = 1;i < rotateArray.size();i++)
+            {
+                if(rotateArray[i-1]>rotateArray[i])
+                {
+                    temp = i;
+                    break;
+                    //break;
+                }
+                else
+                    continue;
+            }
+        }
+/*
+        vector<int> newVector;
+        for(int i = temp;i<rotateArray.size();i++)
+        {
+            newVector.push_back(rotateArray[i]);
+        }
+        
+        for(int i = 0;i<temp;i++)
+        {
+            newVector.push_back(rotateArray[i]);
+        }
+        */
+        return rotateArray[temp];    //如果在循环中直接return ,牛客网的编译器会报错。所以，一般结果放在最后return.
+    }
+};
