@@ -5,10 +5,28 @@
 
 // author = Qiufeng
 
+/*********************Method One**************************/
+
 #include<cmath>
 class Solution {
 public:
     double Power(double base, int exponent) {
         return pow(base,exponent);
+    }
+};
+
+
+/*********************Method Two**************************/
+class Solution {
+public:
+    double Power(double base, int exponent) {
+        long double temp =1;
+        if(exponent >=0)
+            for(int i = 0;i < exponent;i++)
+                temp*=base;
+        else
+            for(int i = 0;i > exponent;i--)
+                temp/=base;
+        return temp;
     }
 };
