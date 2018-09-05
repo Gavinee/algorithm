@@ -20,9 +20,9 @@ public:
         ListNode* temp = pListHead;
         unsigned int count = 1;
         
-        if(temp==NULL)
+        if(temp==nullptr)
             return NULL;           //不能返回node,否则结点中自动生成random元素。造成结果错误。
-        while(temp->next!=NULL)
+        while(temp->next!=nullptr)
         {
             temp = temp->next;
             count++;
