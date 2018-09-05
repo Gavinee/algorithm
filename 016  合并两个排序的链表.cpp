@@ -19,21 +19,21 @@ class Solution {
 public:
     ListNode* Merge(ListNode* pHead1, ListNode* pHead2)
     {
-        if(pHead1 == nullptr) return pHead2;
-        if(pHead2 == nullptr) return pHead1;
+        ListNode* temp;
+        if(pHead1==nullptr) return pHead2;
+        if(pHead2==nullptr) return pHead1;
         
-        ListNode* pMergeHead = nullptr;
-        
-        if(pHead1->val < pHead2 -> val)
+        if(pHead1->val > pHead2->val)
         {
-            pMergeHead = pHead1;
-            pMergeHead->next = Merge(pHead1->next,pHead2);
+            temp = pHead2;
+            temp->next = Merge(pHead1,pHead2->next);
         }
-        else{
-            pMergeHead = pHead2;
-            pMergeHead->next = Merge(pHead1, pHead2->next);
+        else
+        {
+            temp = pHead1;
+            temp->next = Merge(pHead1->next,pHead2);
         }
-        return pMergeHead;
+        return temp;
     }
 };
 
