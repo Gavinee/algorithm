@@ -18,7 +18,7 @@ public:
     ListNode* ReverseList(ListNode* pHead) {
         ListNode* pNode = pHead;
         ListNode* pPrev = NULL;
-        while(pNode!=NULL)
+        while(pNode!=nullptr)
         {
             ListNode* pNext = pNode->next;
             pNode->next = pPrev;
