@@ -12,3 +12,4 @@ C/C++实现
 [009 变态跳台阶](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/009%20%20%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6.cpp)<br>
 [010 矩形覆盖](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/010%20%20%E7%9F%A9%E5%BD%A2%E8%A6%86%E7%9B%96.cpp)<br>
 [011 二进制中1的个数](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/011%20%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.cpp)<br>
+[012 数值的整数次方](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/012%20%20%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9.cpp)<br>
