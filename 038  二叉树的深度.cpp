@@ -50,6 +50,5 @@ public:
             MostTreeDepth(pRoot->left,deep,nowDeep+1);
             MostTreeDepth(pRoot->right,deep,nowDeep+1);
         }
-    }
-    
+    }  
 };
