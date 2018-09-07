@@ -30,14 +30,14 @@ public:
                 if(j == tt.size()-1 and numbers[i]!=tt[j])
                 {
                     tt.push_back(numbers[i]);
-                    times.push_back(1);
+                    times.push_back(1);             //后面必须加break,因为在循环中，tt.size()发生了改变，会再执行一遍循环。
                     break;
                 }
             }
         }
-        for(int i =0 ;i<times.size();i++)
+        for(int i = 0 ;i<times.size();i++)
         {
-            if(times[i]>numbers.size()/2)
+            if(times[i]>numbers.size()/2)         //times[i] > numbers.size()/2  这里要考虑numbers.size()是否是单数还是双数.
                 return tt[i];
         }
         return 0;
