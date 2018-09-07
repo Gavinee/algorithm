@@ -20,4 +20,5 @@ C/C++实现
 [018 二叉树的镜像](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/018%20%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.cpp)<br>
 [022 从上往下打印二叉树](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/022%20%20%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)<br>
 [029 最小的K个数](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/029%20%20%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA%E6%95%B0.cpp)<br>
+[030 连续子数组的最大和](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/030%20%20%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.cpp)<br>
 [038 二叉树的深度](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/038%20%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.cpp)<br>
