@@ -26,6 +26,7 @@ C/C++实现
 [030 连续子数组的最大和](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/030%20%20%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.cpp)<br>
 [034 第一个只出现一次的字符](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/034%20%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.cpp)<br>
 [038 二叉树的深度](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/038%20%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.cpp)<br>
+[044 翻转单词顺序列](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/044%20%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97.cpp)<br>
 [047 求1+2+3+...+n](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/047%20%20%E6%B1%821%2B2%2B3%2B...%2Bn.cpp)<br>
 [058 对称的二叉树](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/058%20%20%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)<br>
 [060 把二叉树打印成多行](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/060%20%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%A0%91%E6%89%93%E5%8D%B0%E6%88%90%E5%A4%9A%E8%A1%8C.cpp)<br>
