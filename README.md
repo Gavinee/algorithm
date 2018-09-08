@@ -26,3 +26,4 @@ C/C++实现
 [038 二叉树的深度](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/038%20%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.cpp)<br>
 [047 求1+2+3+...+n](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/047%20%20%E6%B1%821%2B2%2B3%2B...%2Bn.cpp)<br>
 [058 对称的二叉树](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/058%20%20%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)<br>
+[060 把二叉树打印成多行](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/060%20%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%A0%91%E6%89%93%E5%8D%B0%E6%88%90%E5%A4%9A%E8%A1%8C.cpp)<br>
