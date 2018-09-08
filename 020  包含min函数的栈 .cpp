@@ -8,9 +8,11 @@
 class Solution {
 public:
     vector<int> tt;
+  
     void push(int value) {
         tt.push_back(value);
     }
+  
     void pop() {
         if(tt.size()!=0)
         {
@@ -19,14 +21,15 @@ public:
                 temp.push_back(tt[i]);
             tt = temp;
         }
-        
     }
+  
     int top() {
         if(tt.size()!=0)
             return tt[tt.size()-1];
         else
             return NULL;
     }
+  
     int min() {
         int temp;
         if(tt.size()==0)
