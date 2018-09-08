@@ -14,11 +14,11 @@ public:
         char chr = ' ';
         string tt="";
         stack<string> reSentence;
-        for(int i = 0;i <= str.length();i++)
+        for(int i = 0;i <= str.length();i++)      //字符串的区间是[0,str.length()],两边闭区间，而数组则是[0,tt.size())
         {
-            if(str[i]==chr or str[i] =='\0')
-            {
-                reSentence.push(tt);
+            if(str[i]==chr or str[i] =='\0')      //若将区间改为[0,str.length()),忽略str[length] == '\0',而采用直接截取                               
+            {                                     //到length()-1的字符，则输出会报错(报错原因是输出与要求的不一样。。。。)
+                reSentence.push(tt);              //所以，采用str[i] == '\0'作为判断条件，保留了字符串的完整性。
                 tt = "";
             }
             else
