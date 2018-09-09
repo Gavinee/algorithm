@@ -31,5 +31,6 @@ C/C++实现
 [040 数组中只出现一次的数字](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/040%20%20%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.cpp)<br>
 [044 翻转单词顺序列](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/044%20%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97.cpp)<br>
 [047 求1+2+3+...+n](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/047%20%20%E6%B1%821%2B2%2B3%2B...%2Bn.cpp)<br>
+[054 字符流中第一个不重复的字符](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/054%20%20%E5%AD%97%E7%AC%A6%E6%B5%81%E4%B8%AD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%8D%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%97%E7%AC%A6.cpp)<br>
 [058 对称的二叉树](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/058%20%20%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)<br>
 [060 把二叉树打印成多行](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/060%20%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%A0%91%E6%89%93%E5%8D%B0%E6%88%90%E5%A4%9A%E8%A1%8C.cpp)<br>
