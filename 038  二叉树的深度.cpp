@@ -52,3 +52,44 @@ public:
         }
     }  
 };
+
+/*****************************************优化后**********************************************/
+/*
+struct TreeNode {
+	int val;
+	struct TreeNode *left;
+	struct TreeNode *right;
+	TreeNode(int x) :
+			val(x), left(NULL), right(NULL) {
+	}
+};*/
+class Solution {
+public:
+    int TreeDepth(TreeNode* pRoot)
+    {
+        if(pRoot==NULL)
+            return 0;
+        
+        vector<int> deep;
+        int nowDeep =0;
+        MostTreeDepth(pRoot,deep,nowDeep);
+        
+        return deep[0];
+    }
+    
+    void MostTreeDepth(TreeNode* pRoot,vector<int> &deep,int nowDeep)
+    {
+        if(pRoot == NULL)   
+            if(deep.size()==0)
+                return deep.push_back(nowDeep);
+            else
+            {
+                if(nowDeep>deep[0])
+                    deep[0] = nowDeep;
+                return;
+            }
+
+         MostTreeDepth(pRoot->left,deep,nowDeep+1);
+         MostTreeDepth(pRoot->right,deep,nowDeep+1);
+    }
+};
