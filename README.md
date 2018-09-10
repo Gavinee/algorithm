@@ -35,6 +35,7 @@ C/C++实现
 [043 左旋转字符串](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/043%20%20%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)<br>
 [044 翻转单词顺序列](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/044%20%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97.cpp)<br>
 [047 求1+2+3+...+n](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/047%20%20%E6%B1%821%2B2%2B3%2B...%2Bn.cpp)<br>
+[048 不用加减乘除做加法](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/048%20%20%E4%B8%8D%E7%94%A8%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%81%9A%E5%8A%A0%E6%B3%95.cpp)<br>
 [050 数组中重复的数字](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/050%20%20%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.cpp)<br>
 [054 字符流中第一个不重复的字符](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/054%20%20%E5%AD%97%E7%AC%A6%E6%B5%81%E4%B8%AD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%8D%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%97%E7%AC%A6.cpp)<br>
 [058 对称的二叉树](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/058%20%20%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)<br>
