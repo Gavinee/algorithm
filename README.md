@@ -20,6 +20,7 @@ C/C++实现
 [017 树的子结构](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/017%20%20%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.cpp)<br>
 [018 二叉树的镜像](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/018%20%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.cpp)<br>
 [020 包含min函数的栈](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/020%20%20%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88%20.cpp)<br>
+[021 栈的压入、弹出序列](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/021%20%20%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.cpp)<br>
 [022 从上往下打印二叉树](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/022%20%20%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)<br>
 [028 数组中出现次数超过一半的数字](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/028%20%20%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.cpp)<br>
 [029 最小的K个数](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/029%20%20%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA%E6%95%B0.cpp)<br>
