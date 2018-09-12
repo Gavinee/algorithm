@@ -44,4 +44,5 @@ C/C++实现
 [054 字符流中第一个不重复的字符](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/054%20%20%E5%AD%97%E7%AC%A6%E6%B5%81%E4%B8%AD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%8D%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%97%E7%AC%A6.cpp)<br>
 [056 删除链表中重复的结点](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/056%20%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E7%BB%93%E7%82%B9.cpp)<br>
 [058 对称的二叉树](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/058%20%20%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)<br>
+[059 按之字形顺序打印二叉树](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/059%20%20%E6%8C%89%E4%B9%8B%E5%AD%97%E5%BD%A2%E9%A1%BA%E5%BA%8F%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)<br>
 [060 把二叉树打印成多行](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/060%20%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%A0%91%E6%89%93%E5%8D%B0%E6%88%90%E5%A4%9A%E8%A1%8C.cpp)<br>
