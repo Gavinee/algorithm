@@ -40,7 +40,7 @@ string son(string tt, string ss)
 				tempj = j;
 				str = tt[tempi];
 				return str += son(tt.substr(i+1, tt.length() - i - 1), ss.substr(j+1, ss.length() - j - 1));  
-                //string.substr(pos,len)   pos : 当前位置          len :  字串长度
+                				//string.substr(pos,len)   pos : 当前位置          len :  字串长度
 			}
 		}
 	}
