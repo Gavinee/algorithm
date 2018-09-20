@@ -42,6 +42,7 @@ C/C++实现
 [042 和为S的两个数字](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/042%20%20%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.cpp)<br>
 [043 左旋转字符串](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/043%20%20%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)<br>
 [044 翻转单词顺序列](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/044%20%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97.cpp)<br>
+[046 孩子们的游戏(圆圈中最后剩下的数)](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/046%20%20%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%9A%84%E6%B8%B8%E6%88%8F(%E5%9C%86%E5%9C%88%E4%B8%AD%E6%9C%80%E5%90%8E%E5%89%A9%E4%B8%8B%E7%9A%84%E6%95%B0).cpp)<br>
 [047 求1+2+3+...+n](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/047%20%20%E6%B1%821%2B2%2B3%2B...%2Bn.cpp)<br>
 [048 不用加减乘除做加法](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/048%20%20%E4%B8%8D%E7%94%A8%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%81%9A%E5%8A%A0%E6%B3%95.cpp)<br>
 [049 把字符串转换成整数](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/049%20%20%E6%8A%8A%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%88%90%E6%95%B4%E6%95%B0.cpp)<br>
