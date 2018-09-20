@@ -38,6 +38,7 @@ C/C++实现
 [038 二叉树的深度](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/038%20%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.cpp)<br>
 [039 平衡二叉树](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/039%20%20%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)<br>
 [040 数组中只出现一次的数字](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/040%20%20%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.cpp)<br>
+[041 和为S的连续正数序列](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/041%20%20%E5%92%8C%E4%B8%BAS%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97.cpp)<br>
 [042 和为S的两个数字](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/042%20%20%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.cpp)<br>
 [043 左旋转字符串](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/043%20%20%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)<br>
 [044 翻转单词顺序列](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/044%20%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97.cpp)<br>
