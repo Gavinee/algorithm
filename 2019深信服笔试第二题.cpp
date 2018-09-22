@@ -40,15 +40,16 @@ vector<long> buy(long a1,long b1,long v1,long a2,long b2,long v2)
 		{
 			if ((a1*i + b1*j == v1) &&( a2*i + b2*j == v2))
 			{
+				tt.push_back(i);
+				tt.push_back(j);
+				count++;
 				if (count > 1)
 				{
 					vector<long> temp;
 					temp.push_back(0);
 					return temp;
 				}
-				tt.push_back(i);
-				tt.push_back(j);
-				count++;
+
 			}
 		}
 	}
