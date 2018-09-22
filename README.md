@@ -56,5 +56,6 @@ C/C++实现
 [058 对称的二叉树](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/058%20%20%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)<br>
 [059 按之字形顺序打印二叉树](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/059%20%20%E6%8C%89%E4%B9%8B%E5%AD%97%E5%BD%A2%E9%A1%BA%E5%BA%8F%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)<br>
 [060 把二叉树打印成多行](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/060%20%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%A0%91%E6%89%93%E5%8D%B0%E6%88%90%E5%A4%9A%E8%A1%8C.cpp)<br>
+[064 滑动窗口的最大值](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/064%20%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.cpp)<br>
 [065 矩阵中的路径](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/065%20%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84.cpp)<br>
 [066 机器人的运动范围](https://github.com/Gavinee/algorithm/blob/%E5%89%91%E6%8C%87offer/066%20%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4.cpp)<br>
