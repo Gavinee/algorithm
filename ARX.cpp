@@ -31,6 +31,34 @@
     commandFlags是用来说明命令类型的   (1)模态命令  模态命令在执行过程中无法运行其他的模态命令，但是可以运行透明命令
                        (2)透明命令	 
 
+void unloadApp()
+{
+	//删除命令组
+	acedRegCmds->removeGroup("Hello1");
+}
 
+void HelloWorld()
+{
+	acutPrintf("\nHell,World!");	 //相当于C语言中的printf函数
+}
+
+extern "C" AcRx::AppRetCode
+acrxEntryPoint(AcRx::AppMsgCode msg,void* pkt)
+{
+	switch(msg)
+	{
+	case AcRx::kInitAppMsg:			//应用程序加载时发生
+		acrxDynamicLinker->unlockApplication(pkt);
+		acrxRegisterAppMDIAware(pkt);
+		initApp();
+		break;
+	case AcRx::kUnloadAppMsg:		//应用程序卸载后发生
+		unloadApp();
+		break;
+	default:
+		break;
+	}
+	return AcRx::kRetOK;
+}
 
 
